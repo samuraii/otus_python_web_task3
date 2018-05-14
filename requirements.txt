@@ -1,0 +1,2 @@
+GitPython==2.1.10
+nltk==3.3
